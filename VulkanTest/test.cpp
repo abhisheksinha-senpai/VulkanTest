@@ -7,7 +7,7 @@
 #include <iostream>
 
 
-int main() {
+int test_application() {
 	glfwInit();
 
 	glfwWindowHint(GLFW_CLIENT_API, GLFW_NO_API);
